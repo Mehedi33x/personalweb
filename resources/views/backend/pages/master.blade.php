@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Ben's Resume - Profile HTML Page</title>
+    <title>My Resume</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -19,10 +19,7 @@
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="{{ url('/backend/assets/css/tooplate-ben-resume-style.css') }}">
-    <!--
-Tooplate 2120 Ben Resume
-https://www.tooplate.com/view/2120-ben-resume
--->
+
 </head>
 
 <body data-spy="scroll" data-target="#navbarNav" data-offset="50">
@@ -48,12 +45,10 @@ https://www.tooplate.com/view/2120-ben-resume
                 <div class="d-flex flex-column justify-content-center align-items-center col-lg-7 col-md-7 col-12">
                     <div class="hero-text">
 
-                        <h1 class="hero-title">👋 Ben, a digital nomad</h1>
-
-                        <a href="#" class="email-link">
-                            hello@company.co
-                        </a>
-
+                        <h1 class="hero-title">Mehedi Hassan</h1>
+                        <p href="#" class="email-link">
+                            Web Developer | PHP-Laravel
+                        </p>
                     </div>
                 </div>
 
@@ -66,24 +61,23 @@ https://www.tooplate.com/view/2120-ben-resume
             <div class="row">
 
                 <div class="col-lg-6 col-md-6 col-12">
-                    <h3 class="mb-4">This is Ben's Resume</h3>
-
-                    <p>Ben Resume HTML Template is brought to you by <a rel="nofollow" href="https://www.tooplate.com"
-                            target="_parent">Tooplate website</a>. You can feel free to edit and use this page for your
-                        small site. You are allowed to use this HTML template for any kind of purpose.</p>
-
-                    <p>However, please do not re-distribute the downloadable template ZIP file on any template
-                        collection website. This is strongly prohibited. Please contact Tooplate for more information.
+                    <h3 class="mb-4">This is Mehedi Hassan's Resume</h3>
+                    <p>
+                        With an experience as a PHP/Laravel Developer, I have a proven track record in developing
+                        high-quality and maintainable software for e-commerce platforms. My technical proficiency in
+                        PHP, Laravel and JavaScript coupled with my problem-solving skills and team collaboration
+                        abilities, have led to significant improvements in system efficiency and user engagement. One of
+                        my biggest career achievements is playing a key role in the success of a revolutionary
+                        e-commerce startup, enabling eCommerce merchants to build long-lasting customer relationships.
                     </p>
-
                     <ul class="mt-4 mb-5 mb-lg-0 profile-list list-unstyled">
-                        <li><strong>Full Name :</strong> Ben Wilson </li>
+                        <li><strong>Full Name :</strong> Mehedi Hassan </li>
 
-                        <li><strong>Date of Birth:</strong> 26 September 1999</li>
+                        <li><strong>Date of Birth:</strong> 28 May 1998</li>
 
-                        <li><strong>Website :</strong> company.co</li>
+                        <li><strong>Website :</strong> </li>
 
-                        <li><strong>Email :</strong> hello@company.co</li>
+                        <li><strong>Email :</strong> hmehedi3227@gmail.com </li>
                     </ul>
                 </div>
 

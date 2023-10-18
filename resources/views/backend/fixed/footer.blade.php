@@ -33,27 +33,22 @@
                 <div class="mx-auto col-lg-4 col-md-6 col-12">
                     <h3 class="my-4 pt-4 pt-lg-0">Say hello</h3>
 
-                    <p class="mb-1">010-020-0340</p>
+                    <p class="mb-1">01968256756</p>
 
                     <p>
                         <a href="#">
-                            hello@company.co
+                            hmehedi3227@gmail.com
                             <i class="fas fa-arrow-right custom-icon"></i>
                         </a>
                     </p>
 
                     <ul class="social-links mt-2">
-                        <li><a href="https://fb.com/tooplate" rel="noopener" class="fab fa-facebook"></a></li>
+                        <li><a href="" rel="noopener" class="fab fa-facebook"></a></li>
                         <li><a href="#" rel="noopener" class="fab fa-twitter"></a></li>
                         <li><a href="#" rel="noopener" class="fab fa-instagram"></a></li>
                         <li><a href="#" rel="noopener" class="fab fa-linkedin"></a></li>
                         <li><a href="#" rel="noopener" class="fab fa-youtube"></a></li>
                     </ul>
-
-                    <p class="copyright-text mt-5 pt-3">Copyright &copy; 2020 Ben Resume Page</p>
-
-                    <p>Design: <a href="https://www.tooplate.com" title="free HTML templates"
-                            target="_blank">Tooplate</a></p>
                 </div>
 
             </div>
